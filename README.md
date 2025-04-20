@@ -32,12 +32,12 @@ Network: sepolia testent amount sent: 0.02ETH Transaction hash:
 
 <h1>Getting sepolia ETH from Faucet</h1>
 
-1.Visited the google cloud Sepolia Faucet.
-2. Logged in with my google account.
-3. Entered my Metamask wallet address.
-4. Clicked on "Request 0.02"ETH.
-5.ETH wasn't sent to my wallet within a few seconds.
-6. Verified the transactions on sepolia Etherscan.
+<h5>1.Visited the google cloud Sepolia Faucet.</h5>
+<h5>2. Logged in with my google account.</h5>
+<h5>3. Entered my Metamask wallet address.</h5>
+<h5>4. Clicked on "Request 0.02"ETH.</h5>
+<h5>5.ETH wasn't sent to my wallet within a few seconds.</h5>
+<h5>6. Verified the transactions on sepolia Etherscan.</h5>
 !image[![desktop](https://github.com/user-attachments/assets/fd7fdea8-0ff0-48b7-ad72-04e7c9f589d7)]
 <h1>Steps Followed</h1>
 1. Connected Sepolia ETH from testnet.
