@@ -15,7 +15,7 @@ Windows: Add the ipfs.exe directory to your system's PATH environment variable.<
 <h4>🔹clicked on the file selection in IPFS desktop.</h4>
 <h4>🔹Then i selected the option "import" and uploaded a audio and also a image.</h4>
 <h4>🔹Once the file was uploaded, IPFS generate a unique CID(content indentifier) for the file.</h4>
-!image[![Screenshot 2025-04-20 170222](https://github.com/user-attachments/assets/08413b51-0001-4759-975a-48812a0e18f7)]
+!image[(https://github.com/user-attachments/assets/08413b51-0001-4759-975a-48812a0e18f7)]
 
 
 <!---
